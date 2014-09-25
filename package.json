@@ -1,0 +1,19 @@
+{
+  "name": "grunt-jst",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tasks/jst.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/plasticut/grunt-jst.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/plasticut/grunt-jst/issues"
+  },
+  "homepage": "https://github.com/plasticut/grunt-jst"
+}
