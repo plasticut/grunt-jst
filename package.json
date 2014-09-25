@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/plasticut/grunt-jst",
   "dependencies": {
-    "lodash": "^2.4.1"
+    "lodash": "^2.4.1",
+    "node-beautify": "0.0.2"
   }
 }
