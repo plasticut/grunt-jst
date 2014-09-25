@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/plasticut/grunt-jst/issues"
   },
-  "homepage": "https://github.com/plasticut/grunt-jst"
+  "homepage": "https://github.com/plasticut/grunt-jst",
+  "dependencies": {
+    "lodash": "^2.4.1"
+  }
 }
