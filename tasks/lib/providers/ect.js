@@ -2,12 +2,9 @@
 /*
     ECT TEMPLATE PROVIDER
 */
-var _ = require('lodash');
 
 function EctProvider(options) {
     var ECT = require('ect');
-
-
     this.ect = new ECT(options);
 }
 

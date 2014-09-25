@@ -16,5 +16,6 @@ Compiler.prototype.compile = function(template) {
 };
 
 Compiler.Providers = {
-    ect: require('./providers/ect')
+    ect: require('./providers/ect'),
+    ejs: require('./providers/ejs')
 };
